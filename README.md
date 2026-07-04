@@ -4,7 +4,7 @@ A curated list of awesome Evolution resources.  Please feel free to contribute!
 
 > Evolution is the change in the heritable characteristics of biological populations over successive generations. It occurs when evolutionary processes such as genetic drift and natural selection act on genetic variation, resulting in certain characteristics becoming more or less common within a population over successive generations. The process of evolution has given rise to biodiversity at every level of biological organisation.
 
-This list focuses on collecting and radiating information regarding Biological Evolution and the sciences that support Biological Evolution. Since this topic can be controversial for some groups of people there will necessarily be content here that explore that controversy, and clarifies the differences between natural sciences and the supernatural.
+This list focuses on collecting and sharing information about biological evolution and the sciences that support it. Since this topic can be controversial for some groups of people, there will necessarily be content here that explores that controversy and clarifies the differences between natural sciences and the supernatural.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
