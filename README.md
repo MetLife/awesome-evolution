@@ -126,7 +126,7 @@ If you are doing research focused on specific branches of life, generic browsers
 
 - **[TAIR (The Arabidopsis Information Resource)](https://www.arabidopsis.org/)** - The standard gateway for plant genomics, focusing on the model plant Arabidopsis thaliana.
 
-- [SGD (Saccharomyces Genome Database)](SGD (Saccharomyces Genome Database))** - The ultimate portal for budding yeast genomics, highly relevant for studying basic eukaryotic cell evolution.
+- **[SGD (Saccharomyces Genome Database)](https://www.yeastgenome.org/)** - The ultimate portal for budding yeast genomics, highly relevant for studying basic eukaryotic cell evolution.
 
 ### Needs Curation for Currency
 
