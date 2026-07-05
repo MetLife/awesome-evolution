@@ -42,15 +42,27 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Stated Clearly](https://www.statedclearly.com/)** - To promote critical thinking and a love for exploration by introducing the public to the scientific process. We do this through information‑rich animations that explain scientific topics with friendly language and illustrations.
 
+- **[Sandwalk - Strolling with a skeptical biochemist](https://sandwalk.blogspot.com/)** - Larry Moran is a Professor Emeritus in the Department of Biochemistry at the University of Toronto. Professor Moran deep dives into population genetics and molecular evolution.
+
+- **[John Hawks – John Hawks Weblog](https://www.johnhawks.net/)** - Dr. John Hawks is a world-renowned paleoanthropologist and professor at the University of Wisconsin–Madison. If your interest in evolution leans toward human origins, transitional fossils, and ancient DNA, Hawks' blog is unmatched.
+
+- **[Carl Zimmer](https://carlzimmer.com/category/articles/)** - Author and science journalist for the New York Times with a strong focus on macroevolution, the intricacies of viral evolution (including endogenous retroviruses), and how parasites shape the tree of life.
+
+- **[Panda's Thumb](https://pandasthumb.org/)** - The Panda's Thumb is a massive collective of highly popular evolutionary biologists, mathematicians, and paleontologists (such as Nick Matzke, Wesley Elsberry, and various NCSE members). This is arguably the most influential group-run evolution blog on the web.
+
 - **[Talk Origins Archive](https://talkorigins.org/)** - Talk.origins is a Usenet newsgroup devoted to the discussion and debate of biological and physical origins. Most discussions in the newsgroup center on the creation/evolution controversy, but other topics of discussion include the origin of life, geology, biology, catastrophism, cosmology, and theology.
 
 ## Science and Evolution Communicators
 
-- **[Gutsick Gibbon - Content on Biological Anthropology](https://www.youtube.com/gutsickgibbon/)** - Videos from Erica, a current PhD student in Biological Anthropology, concerning primates, general zoology, paleontology, anthropology, and evolutionary biology!
+- **[AronRa](https://www.youtube.com/user/AronRa)** - Aron Ra is an author, public speaker, and science communicator who serves as one of the most prominent advocates for evolutionary education on the web. His series "The Systematic Classification of Life" serves as an exhaustive, multi-part masterclass that tracks the human evolutionary lineage from single-celled eukaryotic organisms all the way to Homo sapiens, providing an uncompromised defense of common descent.
+
+- **[Gutsick Gibbon - Content on Biological Anthropology](https://www.youtube.com/gutsickgibbon/)** - Outstanding content from Erica, a current PhD student in Biological Anthropology, concerning primates, general zoology, paleontology, anthropology, and evolutionary biology!
+
+- **[PBS Eons](https://www.youtube.com/@eons/)** - Join hosts Kallie Moore, Michelle Barboza-Ramirez, Gabriel Santos, and Blake de Pastino as they take you on a journey through the history of life on Earth. From the dawn of life in the Archaean Eon through the Mesozoic Era — the so-called “Age of Dinosaurs” — right up to the end of the most recent Ice Age.
 
 ## Recommended Books
 
-- **[Human Evolution: Genes, Genealogies and Phylogenies](https://www.amazon.com/Human-Evolution-Genes-Genealogies-Phylogenies/dp/1107040124/)** - Controversy over human evolution remains widespread. However, the human genome project and genetic sequencing of many other species have provided myriad precise and unambiguous genetic markers that establish our evolutionary relationships with other mammals. Human Evolution: Genes, Genealogies and Phylogenies identifies and explains these identifiable, rare and complex markers including endogenous retroviruses, genome-modifying transposable elements, gene-disabling mutations, segmental duplications and gene-enabling mutations. 
+- **[Human Evolution: Genes, Genealogies and Phylogenies](https://www.amazon.com/Human-Evolution-Genes-Genealogies-Phylogenies/dp/1107040124/)** - Controversy over human evolution remains widespread. However, the human genome project and genetic sequencing of many other species have provided myriad precise and unambiguous genetic markers that establish our evolutionary relationships with other mammals. Human Evolution: Genes, Genealogies and Phylogenies identifies and explains these identifiable, rare and complex markers including endogenous retroviruses, genome-modifying transposable elements, gene-disabling mutations, segmental duplications and gene-enabling mutations.
 
 - **[The Selfish Gene: 50th Anniversary Edition](https://www.amazon.com/Selfish-Gene-50th-Anniversary-dp-019898538X/dp/019898538X/)** - Richard Dawkins' brilliant reformulation of the theory of natural selection has the rare distinction of having provoked as much excitement and interest outside the scientific community as within it. His theories have helped change the whole nature of the study of social biology, and have forced thousands of readers to rethink their beliefs about life.
 
@@ -68,7 +80,7 @@ Massive-scale, multi-species genome sequencing projects are reshaping our unders
 
 The most prominent global consortia and projects actively mapping genomes across vast numbers of species include the following:
 
-### Large Scale Genome Sequencing Projects 
+### Large Scale Genome Sequencing Projects
 
 - **[The Earth BioGenome Project (EBP)](https://www.earthbiogenome.org/)** - The EBP is the ultimate global network coordination effort. Its stated mission is to sequence, catalog, and characterize the genomes of all 1.67 million known eukaryotic species (plants, animals, fungi, and single-celled protozoa).
 
