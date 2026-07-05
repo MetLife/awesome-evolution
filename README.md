@@ -124,7 +124,7 @@ These are the gold standards of the bioinformatics community, hosting massive re
 
 - **[UCSC Genome Browser](https://genome.ucsc.edu/)** - Developed by the University of California, Santa Cruz, this is arguably the most famous and widely utilized genome browser in the world.
 
-- **[Ensembl Genome Browser](https://www.ensembl.org/) - A joint project between EMBL-EBI and the Wellcome Sanger Institute, Ensembl focuses heavily on high-quality annotation, particularly for vertebrate genomes.
+- **[Ensembl Genome Browser](https://www.ensembl.org/)** - A joint project between EMBL-EBI and the Wellcome Sanger Institute, Ensembl focuses heavily on high-quality annotation, particularly for vertebrate genomes.
 
 - **[NCBI Sequence Viewer (formerly MapViewer)](https://www.ncbi.nlm.nih.gov/)** - Maintained by the National Center for Biotechnology Information, this browser seamlessly integrates with the entire NCBI/PubMed ecosystem.
 
@@ -135,6 +135,8 @@ If you have your own data files (like .bam, .vcf, .bed, or .bigWig) and want a m
 - **[IGV-Web (Integrative Genomics Viewer)](https://igv.org/app/)** - Developed by the Broad Institute, IGV is a legendary desktop tool that now features a highly optimized web-app version.
 
 - **[JBrowse 2 Web Demo](https://jbrowse.org/jb2/)** - JBrowse is an open-source, next-generation browser built entirely on modern JavaScript/HTML5.
+
+- **[Lucid Align](https://www.lucidalign.com/)** - A modern sequence alignment viewer. Fast performance & intuitive navigation helps you focus on the science.
 
 ### Specialized Model Organism Browsers
 
@@ -147,16 +149,6 @@ If you are doing research focused on specific branches of life, generic browsers
 - **[TAIR (The Arabidopsis Information Resource)](https://www.arabidopsis.org/)** - The standard gateway for plant genomics, focusing on the model plant Arabidopsis thaliana.
 
 - **[SGD (Saccharomyces Genome Database)](https://www.yeastgenome.org/)** - The ultimate portal for budding yeast genomics, highly relevant for studying basic eukaryotic cell evolution.
-
-### Locally Installable
-
-The following tools can be used to visualize genomic data or for constructing customized visualizations of genomic data including sequence data from DNA-Seq, RNA-Seq, and ChIP-Seq, variants, and more. These tools can be run locally (often in a browser) as standalone viewers or embedded in other pages.
-
-- **[IGV js](https://github.com/igvteam/igv)** - JavaScript-based genome browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large variety of formats. [ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31099383/) | [web](https://igv.org/doc/igvjs/) ]
-
-- **[JBrowse](https://github.com/GMOD/jbrowse)** - JavaScript genome browser that is highly customizable via plugins and track customizations. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27072794/) | [web](https://jbrowse.org/jb2/) ]
-
-- **Lucid Align** - A modern sequence alignment viewer. [ [web](https://www.lucidalign.com/) ]
 
 ## Related Awesomes
 
