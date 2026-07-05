@@ -135,7 +135,7 @@ If you have your own data files (like .bam, .vcf, .bed, or .bigWig) and want a m
 
 - **[JBrowse 2 Web Demo](https://jbrowse.org/jb2/)** - JBrowse is an open-source, next-generation browser built entirely on modern JavaScript/HTML5.
 
-- **[Lucid Align](https://www.lucidalign.com/)** - A modern sequence alignment viewer. Fast performance & intuitive navigation helps you focus on the science.
+- **[Lucid Align](https://www.lucidalign.com/)** - A modern sequence alignment viewer. Fast performance & intuitive navigation help you focus on the science.
 
 ### Specialized Model Organism Browsers
 
