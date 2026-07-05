@@ -58,7 +58,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Gutsick Gibbon - Content on Biological Anthropology](https://www.youtube.com/gutsickgibbon/)** - Outstanding content from Erica, a current PhD student in Biological Anthropology, concerning primates, general zoology, paleontology, anthropology, and evolutionary biology!
 
-- **[PBS Eons](https://www.youtube.com/@eons/)** - Join hosts Kallie Moore, Michelle Barboza-Ramirez, Gabriel Santos, and Blake de Pastino as they take you on a journey through the history of life on Earth. From the dawn of life in the Archaean Eon through the Mesozoic Era — the so-called “Age of Dinosaurs” -- right up to the end of the most recent Ice Age.
+- **[PBS Eons](https://www.youtube.com/@eons/)** - Join hosts Kallie Moore, Michelle Barboza-Ramirez, Gabriel Santos, and Blake de Pastino as they take you on a journey through the history of life on Earth. From the dawn of life in the Archaean Eon through the Mesozoic Era — the so-called “Age of Dinosaurs” — right up to the end of the most recent Ice Age.
 
 ## Recommended Books
 
