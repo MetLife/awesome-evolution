@@ -20,6 +20,7 @@ This list focuses on collecting and sharing information about biological evoluti
 ## Contents
 
 - [Evolutionary Science and Related Sites](#evolutionary-science-and-related-sites)
+- [Human Origins](#human-origins)
 - [Evolution Blogs](#evolution-blogs)
 - [Science and Evolution Communicators](#science-and-evolution-communicators)
 - [Recommended Books](#recommended-books)
@@ -51,6 +52,16 @@ This list focuses on collecting and sharing information about biological evoluti
 - **[The European Molecular Biology Laboratory](https://www.embl.org/)** - With support from more than 30 countries, the European Molecular Biology Laboratory (EMBL) has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.
 
 - **[National Academies of Sciences (Evolution Resources)](https://www.nationalacademies.org/evolution-resources/)** - As the premier scientific advisory body in the United States, the National Academies provide a definitive, authoritative resource hub validating the foundational role of evolution in modern science.
+
+## Human Origins
+
+- **[Smithsonian Museum of Natural History](https://humanorigins.si.edu/)** - Maintained by the National Museum of Natural History, this is arguably the single most comprehensive and interactive portal on human prehistory available online.
+
+- **[AfricanFossils.org](https://africanfossils.org/)** - Created in collaboration with the Leakey Foundation and the National Museums of Kenya, this unique digital laboratory acts as a virtual anthropology museum.
+
+- **[Anne and Bernard Spitzer Hall of Human Origins - AMNH](https://www.amnh.org/exhibitions/permanent/human-origins/)** - The AMNH pairs its legendary world-class physical exhibit with a robust online learning platform that blends genomic science with paleoanthropology.
+
+- **[fossilized.org](https://fossilized.org/memosphere/index.html)** - If you want to approach human prehistory from a geographic and archaeological standpoint, this mapping engine provides an interactive global satellite map pinning the precise coordinates where major hominin fossils and ancient stone tools have been unearthed.
 
 ## Evolution Blogs
 
