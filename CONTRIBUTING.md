@@ -21,4 +21,4 @@ Your contributions are always welcome!
 
 ## I want to suggest a change
 
-- Lorem ipsum
+- Start a Discussion describing the content and why its Awesome
