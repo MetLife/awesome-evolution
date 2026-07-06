@@ -2,7 +2,12 @@
 
 Your contributions are always welcome!
 
-## Guidelines
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Contribute via Git
 
 - Add section if needed.
   - Add section description.
@@ -13,3 +18,7 @@ Your contributions are always welcome!
 - Make sure your text editor is set to remove trailing whitespace.
 - Send a Pull Request.
 - Add short description in your Pull Request of why the project/resource/tool is awesome.
+
+## I want to suggest a change
+
+- Lorem ipsum
