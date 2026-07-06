@@ -60,7 +60,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Anne and Bernard Spitzer Hall of Human Origins - AMNH](https://www.amnh.org/exhibitions/permanent/human-origins/)** - The AMNH pairs its legendary world-class physical exhibit with a robust online learning platform that blends genomic science with paleoanthropology.
 
-- **[fosillized.org](https://fossilized.org/memosphere/index.html)** - If you want to approach human prehistory from a geographic and archaeological standpoint, this mapping engine provides an interactive global satellite map pinning the precise coordinates where major hominin fossils and ancient stone tools have been unearthed.
+- **[fossilized.org](https://fossilized.org/memosphere/index.html)** - If you want to approach human prehistory from a geographic and archaeological standpoint, this mapping engine provides an interactive global satellite map pinning the precise coordinates where major hominin fossils and ancient stone tools have been unearthed.
 
 ## Evolution Blogs
 
