@@ -2,6 +2,10 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Contents
+
+- [Primate Research Papers](#primate-research-papers)
+- [Vertebrate Research Papers](#vertebrate-research-papers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
