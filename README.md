@@ -107,6 +107,10 @@ This list focuses on collecting and sharing information about biological evoluti
 
 ## Curated Papers
 
+### Endogenous Retroviruses (ERVs)
+
+- **[Awesome ERV List](erv.md)** - A curated list of research papers and resources on endogenous retroviruses (ERVs), which are viral sequences that have integrated into the genomes of their host organisms over evolutionary time. This list includes seminal papers on the use of ERVs to reconstruct primate phylogenies, as well as recent studies on the origin and evolution of human endogenous retroviruses (HERVs) in primates.
+
 ### PLOS (Public Library of Science)
 
 PLOS is a non-profit organization on a mission to drive open science forward with measurable, meaningful change in research publishing, policy and practice.
