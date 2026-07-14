@@ -7,7 +7,6 @@ title: Awesome ERV List
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 ## Contents
 
 - [Primate Research Papers](#primate-research-papers)
