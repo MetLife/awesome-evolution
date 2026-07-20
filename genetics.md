@@ -28,7 +28,7 @@ title: Awesome Genetics List
 
 ## Gain of Function
 
-- **[Evolutionary resurrection of flagellar motilityvia rewiring of the nitrogen regulation system.](https://eprints.whiterose.ac.uk/id/eprint/111864/1/Flagellum%20paper%20Last%20Submitted%20Version.pdf)** - 2015. The authors investigated the evolutionary resurrection of flagellar motility in bacteria through the rewiring of the nitrogen regulation system, providing insights into the mechanisms underlying the evolution of complex traits.
+- **[Evolutionary resurrection of flagellar motility via rewiring of the nitrogen regulation system](https://eprints.whiterose.ac.uk/id/eprint/111864/1/Flagellum%20paper%20Last%20Submitted%20Version.pdf)** - 2015. The authors investigated the evolutionary resurrection of flagellar motility in bacteria through the rewiring of the nitrogen regulation system, providing insights into the mechanisms underlying the evolution of complex traits.
 
 - **[Transcription factor expression levels and environmental signals constrain transcription factor innovation](https://pmc.ncbi.nlm.nih.gov/articles/PMC10482368/)** - 2023. The authors investigated the relationship between transcription factor expression levels, environmental signals, and the innovation of transcription factors, providing insights into the constraints on transcription factor evolution.
 
